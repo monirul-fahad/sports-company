@@ -1,6 +1,9 @@
 import React from "react";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faFutbol } from "@fortawesome/free-solid-svg-icons";
 import "./Header.css";
 const Header = () => {
+  const footballIcon = <FontAwesomeIcon icon={faFutbol} />;
   return (
     <div>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
@@ -52,7 +55,7 @@ const Header = () => {
         </div>
       </nav>
       <div className="text-center py-4 banner">
-        <h1 className="banner-name">Transfer Value</h1>
+        <h1 className="banner-name">Auction Sports {footballIcon}</h1>
         <h5>
           Choose clubs within your budget and make an awesome sports invesment
           company.

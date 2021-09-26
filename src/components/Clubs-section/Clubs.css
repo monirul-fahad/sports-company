@@ -1,7 +1,7 @@
 .card-bg {
-  background-color: aliceblue;
-  /* box-shadow: aquamarine; */
-  box-shadow: rgba(24, 23, 23, 0.24) 2px 3px 9px;
+  /* background-color: rgba(178, 197, 191, 0.815); */
+  background-color: rgba(204, 211, 218, 0.842);
+  box-shadow: rgb(24 23 23 / 24%) 7px 6px 10px;
   border: none;
   border-radius: 10px;
 }
