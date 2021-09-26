@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap");
+
+.banner {
+  background-color: aliceblue;
+}
+.banner-name {
+  font-family: "Roboto Mono", monospace;
+  font-weight: 700;
+}

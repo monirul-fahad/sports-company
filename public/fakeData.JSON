@@ -1,0 +1,152 @@
+[
+    {
+      "name": "Real Madrid",
+      "id": 1,
+      "country": "Spain",
+      "founded": "March 6, 1902",
+      "president": "Florentino Pérez",
+      "value": 800000000,
+      "stadium": "Santiago Bernabéu",
+      "img": "./images/Real_Madrid_CF.png"
+    },
+    {
+      "name": "FC Barcelona",
+      "id": 2,
+      "country": "Spain",
+      "founded": " November 29, 1899",
+      "president": "Joan Laporta",
+      "value": 600000000,
+      "stadium": "Camp Nou",
+      "img": "./images/barcelona.png"
+    },
+    {
+      "name": "Manchester United",
+      "id": 3,
+      "country": "England",
+      "founded": "January 3, 1878",
+      "president": "Ed Woodwardan",
+      "value": 700000000,
+      "stadium": "Old Trafford",
+      "img": "./images/manu.png"
+    },
+    {
+      "name": "Liverpool",
+      "id": 4,
+      "country": "England",
+      "founded": "Octobar 23, 1892",
+      "president": "John Houlding",
+      "value": 550000000,
+      "stadium": "Anfield",
+      "img": "./images/pool.png"
+    },
+    {
+      "name": "Atletico Madrid",
+      "id": 5,
+      "country": "Spain",
+      "founded": "April 26, 1903",
+      "president": "Enrique Cerezo",
+      "value": 600000000,
+      "stadium": "  Wanda Metropolitano",
+      "img": "./images/atm.png"
+    },
+    {
+      "name": "FC Bayern Munich",
+      "id": 6,
+      "country": "Germany",
+      "founded": "February 12, 1950",
+      "president": "Franz John",
+      "value": 750000000,
+      "stadium": "Allianz Arena",
+      "img": "./images/bayenr.png"
+    },
+    {
+      "name": "Arsenal",
+      "id": 7,
+      "country": "England",
+      "founded": "1886",
+      "president": "Mikel Arteta",
+      "value": 600000000,
+      "stadium": "Emirates Stadium",
+      "img": "./images/arsenal.png"
+    },
+    {
+      "name": "Chelsea",
+      "id": 8,
+      "country": "England",
+      "founded": "March 10, 1905",
+      "president": "Thomas Tuchel",
+      "value": 500000000,
+      "stadium": "Stamford Bridge",
+      "img": "./images/chelsea.png"
+    },
+    {
+      "name": "Borussia Dortmund",
+      "id": 9,
+      "country": "Germany",
+      "founded": " December 19, 1909",
+      "president": "Marco Rose",
+      "value": 400000000,
+      "stadium": "Signal Iduna Park",
+      "img": "./images/dormund.png"
+    },
+    {
+      "name": "Juventus",
+      "id": 10,
+      "country": "Italy",
+      "founded": "December 9, 1899",
+      "president": "Massimiliano Allegri",
+      "value": 600000000,
+      "stadium": " Camp",
+      "img": "./images/juve.png"
+    },
+    {
+      "name": "Manchester City",
+      "id": 11,
+      "country": "England",
+      "founded": "1880",
+      "president": "Sheikh Munsor",
+      "value": 800000000,
+      "stadium": "Etihad Stadium",
+      "img": "./images/city.png"
+    },
+    {
+      "name": "Inter Milan",
+      "id": 12,
+      "country": "Italy",
+      "founded": "9 March 1908",
+      "president": "Simone Inzaghi",
+      "value": 500000000,
+      "stadium": "San Siro Stadium",
+      "img": "./images/inter.png"
+    },
+    {
+      "name": "Ac Milan",
+      "id": 13,
+      "country": "Italy",
+      "founded": "9 April 1908",
+      "president": "Stefano Pioli",
+      "value": 300000000,
+      "stadium": "San Siro",
+      "img": "./images/milan.png"
+    },
+    {
+      "name": "Aston Villa",
+      "id": 14,
+      "country": "England",
+      "founded": "November 21, 1874",
+      "president": "Dean Smith",
+      "value": 300000000,
+      "stadium": "West Midlands",
+      "img": "./images/aston.png"
+    },
+    {
+      "name": "Leicester City",
+      "id": 15,
+      "country": "England",
+      "founded": "1884",
+      "president": "Srivaddhanaprabha",
+      "value": 450000000,
+      "stadium": "King Power Stadium",
+      "img": "./images/leicester.png"
+    }
+  ]
