@@ -25,19 +25,13 @@ const Header = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link" aria-current="page" href="#">
-                  All Clubs
-                </a>
+                <a className="nav-link">All Clubs</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " aria-current="page" href="#">
-                  Top Clubs
-                </a>
+                <a className="nav-link">Top Clubs</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link " aria-current="page" href="#">
-                  Categories
-                </a>
+                <a className="nav-link">Categories</a>
               </li>
             </ul>
             <form className="d-flex flex-fill mx-5">

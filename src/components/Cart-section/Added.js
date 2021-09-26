@@ -1,7 +1,6 @@
 import React from "react";
 
 const Added = (props) => {
-  console.log(props.clubName);
   const { name } = props.clubName;
   return (
     <div>

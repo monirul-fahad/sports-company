@@ -1,6 +1,6 @@
-# Auction Sports
+# My project name is Auction Sports
 
-This is the Live link of my project:- [Auction Sports by Monirul Fahad](https://github.com/facebook/create-react-app).
+This is the Live link of my project:- [Auction Sports by Monirul Fahad](https://auction-sports-fahad.netlify.app/).
 
 ## Description and Details about the Project
 

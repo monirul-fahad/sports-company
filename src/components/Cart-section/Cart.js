@@ -9,7 +9,6 @@ const Cart = (props) => {
   const auction = <FontAwesomeIcon icon={faGavel} />;
   const { cart } = props;
 
-  console.log(cart);
   let total = 0;
   for (const club of cart) {
     total = total + club.value;
