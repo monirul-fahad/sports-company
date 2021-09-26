@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import Cart from "../../Cart-section/Cart";
+import Cart from "../Cart-section/Cart";
 import Clubs from "../Clubs-section/Clubs";
 import "./Shop.css";
 const Shop = () => {
